@@ -1,1 +1,2 @@
-# SQL-Pizza_store_analysis
+# SQL_store_analysis
+Pizza store analysis
